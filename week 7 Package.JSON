@@ -1,0 +1,22 @@
+{
+    "start":"node week 7 server.js",
+    "dev":"nodemon week 7 server.js",
+    "name": "week 7 assignment",
+    "version": "1.0.0",
+    "description": "week 7 assignment",
+    "main": "week 7 server.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [],
+    "author": "idris idris",
+    "license": "ISC",
+    "dependencies": {
+        "express":"^4.19.2"
+    },
+    "Devdependencies": {
+      "nodemon":"^3.1.4"
+    }
+  }
+  
+  
